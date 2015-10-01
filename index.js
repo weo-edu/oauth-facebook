@@ -15,6 +15,6 @@ module.exports = function (opts) {
 }
 
 module.exports.popupDefaults = {
-  width: 452,
-  height: 633
+  width: 580,
+  height: 519
 }
